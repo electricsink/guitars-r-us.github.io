@@ -1,3 +1,26 @@
 h1 {
-	color: purple;
+	color: red; 
+	text-align: center; 
+	letter-spacing: 5px; 
+	text-transform: uppercase; 
+	line-height: 3; 
+	font-style: italic;
+}
+.image-wrapper{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-bottom: 60px;
+}
+.image-wrapper img{
+margin: 0 5px;
+}
+.main{
+	width: 100%;
+}
+h2 {
+	color: yellow; 
+	text-align: center; 
+
 }
